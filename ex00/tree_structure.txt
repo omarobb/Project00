@@ -1,32 +1,40 @@
-drwxr-xr-x - omarob  1 Oct 09:15  .
-drwx------ - omarob  1 Oct 09:23  ..
-drwxr-xr-x - omarob  1 Oct 09:05  archives
-drwxr-xr-x - omarob  1 Oct 09:11  projects
-drwxr-xr-x - omarob  1 Oct 09:05  tools
+dev_workspace/:
+total 0
+drwxr-xr-x 1 omarob omarob  42 Oct  1 09:15 .
+drwx------ 1 omarob omarob 516 Oct  1 09:39 ..
+drwxr-xr-x 1 omarob omarob   0 Oct  1 09:05 archives
+drwxr-xr-x 1 omarob omarob   6 Oct  1 09:11 projects
+drwxr-xr-x 1 omarob omarob   0 Oct  1 09:05 tools
 
 dev_workspace/archives:
-drwxr-xr-x - omarob  1 Oct 09:05  .
-drwxr-xr-x - omarob  1 Oct 09:15  ..
+total 0
+drwxr-xr-x 1 omarob omarob  0 Oct  1 09:05 .
+drwxr-xr-x 1 omarob omarob 42 Oct  1 09:15 ..
 
 dev_workspace/projects:
-drwxr-xr-x - omarob  1 Oct 09:11  .
-drwxr-xr-x - omarob  1 Oct 09:15  ..
-drwxr-xr-x - omarob  1 Oct 09:11  web
+total 0
+drwxr-xr-x 1 omarob omarob  6 Oct  1 09:11 .
+drwxr-xr-x 1 omarob omarob 42 Oct  1 09:15 ..
+drwxr-xr-x 1 omarob omarob 30 Oct  1 09:11 web
 
 dev_workspace/projects/web:
-drwxr-xr-x - omarob  1 Oct 09:11  .
-drwxr-xr-x - omarob  1 Oct 09:11  ..
-drwxr-xr-x - omarob  1 Oct 09:11  backend
-drwxr-xr-x - omarob  1 Oct 09:11  frontend
+total 0
+drwxr-xr-x 1 omarob omarob 30 Oct  1 09:11 .
+drwxr-xr-x 1 omarob omarob  6 Oct  1 09:11 ..
+drwxr-xr-x 1 omarob omarob  0 Oct  1 09:11 backend
+drwxr-xr-x 1 omarob omarob  0 Oct  1 09:11 frontend
 
 dev_workspace/projects/web/backend:
-drwxr-xr-x - omarob  1 Oct 09:11  .
-drwxr-xr-x - omarob  1 Oct 09:11  ..
+total 0
+drwxr-xr-x 1 omarob omarob  0 Oct  1 09:11 .
+drwxr-xr-x 1 omarob omarob 30 Oct  1 09:11 ..
 
 dev_workspace/projects/web/frontend:
-drwxr-xr-x - omarob  1 Oct 09:11  .
-drwxr-xr-x - omarob  1 Oct 09:11  ..
+total 0
+drwxr-xr-x 1 omarob omarob  0 Oct  1 09:11 .
+drwxr-xr-x 1 omarob omarob 30 Oct  1 09:11 ..
 
 dev_workspace/tools:
-drwxr-xr-x - omarob  1 Oct 09:05  .
-drwxr-xr-x - omarob  1 Oct 09:15  ..
+total 0
+drwxr-xr-x 1 omarob omarob  0 Oct  1 09:05 .
+drwxr-xr-x 1 omarob omarob 42 Oct  1 09:15 ..
