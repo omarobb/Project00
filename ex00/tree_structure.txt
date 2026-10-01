@@ -1,4 +1,4 @@
-dev_workspace/:
+dev_workspace:
 total 0
 drwxr-xr-x 1 omarob omarob  42 Oct  1 09:15 .
 drwx------ 1 omarob omarob 516 Oct  1 09:39 ..
