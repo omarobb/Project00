@@ -1,0 +1,44 @@
+Git Edit-Add-Commit-Push Workflow
+==================================
+
+Use these steps to save and share a change.
+
+1. Edit
+-------
+
+Change a file, then check the change:
+
+    git status
+    git diff
+
+2. Add
+------
+
+Stage the files you want to save:
+
+    git add README.md git_workflow.txt
+
+3. Commit
+---------
+
+Save the staged files in Git:
+
+    git commit -m "Update project documentation"
+
+4. Push
+-------
+
+Send the commit to the remote repository:
+
+    git push origin main
+
+For a first push, use:
+
+    git push --set-upstream origin main
+
+Complete example:
+
+    git status
+    git add README.md git_workflow.txt
+    git commit -m "Update project documentation"
+    git push origin main
