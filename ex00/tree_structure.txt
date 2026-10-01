@@ -1,32 +1,32 @@
-[1;34md[33mr[31mw[32mx[0m[33mr[1;90m-[0m[32mx[33mr[1;90m-[0m[32mx[0m [1;90m-[0m [1;33momarob[0m [34m 1 Oct 09:15[0m [34m [1m.[0m
-[1;34md[33mr[31mw[32mx[90m------[0m [1;90m-[0m [1;33momarob[0m [34m 1 Oct 09:10[0m [34m [1m..[0m
-[1;34md[33mr[31mw[32mx[0m[33mr[1;90m-[0m[32mx[33mr[1;90m-[0m[32mx[0m [1;90m-[0m [1;33momarob[0m [34m 1 Oct 09:05[0m [34m [1marchives[0m
-[1;34md[33mr[31mw[32mx[0m[33mr[1;90m-[0m[32mx[33mr[1;90m-[0m[32mx[0m [1;90m-[0m [1;33momarob[0m [34m 1 Oct 09:11[0m [34m [1mprojects[0m
-[1;34md[33mr[31mw[32mx[0m[33mr[1;90m-[0m[32mx[33mr[1;90m-[0m[32mx[0m [1;90m-[0m [1;33momarob[0m [34m 1 Oct 09:05[0m [34m [1mtools[0m
+drwxr-xr-x - omarob  1 Oct 09:15  .
+drwx------ - omarob  1 Oct 09:23  ..
+drwxr-xr-x - omarob  1 Oct 09:05  archives
+drwxr-xr-x - omarob  1 Oct 09:11  projects
+drwxr-xr-x - omarob  1 Oct 09:05  tools
 
 dev_workspace/archives:
-[1;34md[33mr[31mw[32mx[0m[33mr[1;90m-[0m[32mx[33mr[1;90m-[0m[32mx[0m [1;90m-[0m [1;33momarob[0m [34m 1 Oct 09:05[0m [34m [1m.[0m
-[1;34md[33mr[31mw[32mx[0m[33mr[1;90m-[0m[32mx[33mr[1;90m-[0m[32mx[0m [1;90m-[0m [1;33momarob[0m [34m 1 Oct 09:15[0m [34m [1m..[0m
+drwxr-xr-x - omarob  1 Oct 09:05  .
+drwxr-xr-x - omarob  1 Oct 09:15  ..
 
 dev_workspace/projects:
-[1;34md[33mr[31mw[32mx[0m[33mr[1;90m-[0m[32mx[33mr[1;90m-[0m[32mx[0m [1;90m-[0m [1;33momarob[0m [34m 1 Oct 09:11[0m [34m [1m.[0m
-[1;34md[33mr[31mw[32mx[0m[33mr[1;90m-[0m[32mx[33mr[1;90m-[0m[32mx[0m [1;90m-[0m [1;33momarob[0m [34m 1 Oct 09:15[0m [34m [1m..[0m
-[1;34md[33mr[31mw[32mx[0m[33mr[1;90m-[0m[32mx[33mr[1;90m-[0m[32mx[0m [1;90m-[0m [1;33momarob[0m [34m 1 Oct 09:11[0m [34m [1mweb[0m
+drwxr-xr-x - omarob  1 Oct 09:11  .
+drwxr-xr-x - omarob  1 Oct 09:15  ..
+drwxr-xr-x - omarob  1 Oct 09:11  web
 
 dev_workspace/projects/web:
-[1;34md[33mr[31mw[32mx[0m[33mr[1;90m-[0m[32mx[33mr[1;90m-[0m[32mx[0m [1;90m-[0m [1;33momarob[0m [34m 1 Oct 09:11[0m [34m [1m.[0m
-[1;34md[33mr[31mw[32mx[0m[33mr[1;90m-[0m[32mx[33mr[1;90m-[0m[32mx[0m [1;90m-[0m [1;33momarob[0m [34m 1 Oct 09:11[0m [34m [1m..[0m
-[1;34md[33mr[31mw[32mx[0m[33mr[1;90m-[0m[32mx[33mr[1;90m-[0m[32mx[0m [1;90m-[0m [1;33momarob[0m [34m 1 Oct 09:11[0m [34m [1mbackend[0m
-[1;34md[33mr[31mw[32mx[0m[33mr[1;90m-[0m[32mx[33mr[1;90m-[0m[32mx[0m [1;90m-[0m [1;33momarob[0m [34m 1 Oct 09:11[0m [34m [1mfrontend[0m
+drwxr-xr-x - omarob  1 Oct 09:11  .
+drwxr-xr-x - omarob  1 Oct 09:11  ..
+drwxr-xr-x - omarob  1 Oct 09:11  backend
+drwxr-xr-x - omarob  1 Oct 09:11  frontend
 
 dev_workspace/projects/web/backend:
-[1;34md[33mr[31mw[32mx[0m[33mr[1;90m-[0m[32mx[33mr[1;90m-[0m[32mx[0m [1;90m-[0m [1;33momarob[0m [34m 1 Oct 09:11[0m [34m [1m.[0m
-[1;34md[33mr[31mw[32mx[0m[33mr[1;90m-[0m[32mx[33mr[1;90m-[0m[32mx[0m [1;90m-[0m [1;33momarob[0m [34m 1 Oct 09:11[0m [34m [1m..[0m
+drwxr-xr-x - omarob  1 Oct 09:11  .
+drwxr-xr-x - omarob  1 Oct 09:11  ..
 
 dev_workspace/projects/web/frontend:
-[1;34md[33mr[31mw[32mx[0m[33mr[1;90m-[0m[32mx[33mr[1;90m-[0m[32mx[0m [1;90m-[0m [1;33momarob[0m [34m 1 Oct 09:11[0m [34m [1m.[0m
-[1;34md[33mr[31mw[32mx[0m[33mr[1;90m-[0m[32mx[33mr[1;90m-[0m[32mx[0m [1;90m-[0m [1;33momarob[0m [34m 1 Oct 09:11[0m [34m [1m..[0m
+drwxr-xr-x - omarob  1 Oct 09:11  .
+drwxr-xr-x - omarob  1 Oct 09:11  ..
 
 dev_workspace/tools:
-[1;34md[33mr[31mw[32mx[0m[33mr[1;90m-[0m[32mx[33mr[1;90m-[0m[32mx[0m [1;90m-[0m [1;33momarob[0m [34m 1 Oct 09:05[0m [34m [1m.[0m
-[1;34md[33mr[31mw[32mx[0m[33mr[1;90m-[0m[32mx[33mr[1;90m-[0m[32mx[0m [1;90m-[0m [1;33momarob[0m [34m 1 Oct 09:15[0m [34m [1m..[0m
+drwxr-xr-x - omarob  1 Oct 09:05  .
+drwxr-xr-x - omarob  1 Oct 09:15  ..
